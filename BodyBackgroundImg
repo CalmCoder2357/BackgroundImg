@@ -1,0 +1,20 @@
+<html>
+<head>
+    <title>Background Image Example</title>
+    <style>
+        body {
+            background-image: url('background.jpg');
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: cover;   
+
+            background-position: center center;
+        }
+    </style>
+</head>
+<body>
+    <h1>Hello, World!</h1> 
+<h2>I am Shailinya Saxena.</h2>
+
+</body>
+</html>
